@@ -21,7 +21,7 @@ public class SampleJava03 {
 	 */
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		System.out.println("Git Hub Sample Test 02");
+		System.out.println("Git Hub Sample Test 03");
 	}
 
 }

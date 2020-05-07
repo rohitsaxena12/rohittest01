@@ -12,7 +12,7 @@ public class SampleJava04 {
 	/**
 	 * 
 	 */
-	public SampleJava03() {
+	public SampleJava04() {
 		// TODO Auto-generated constructor stub
 	}
 
@@ -21,7 +21,7 @@ public class SampleJava04 {
 	 */
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		System.out.println("Git Hub Sample Test 02");
+		System.out.println("Git Hub Sample Test 04");
 	}
 
 }
